@@ -1,0 +1,6 @@
+# DonkeyCar files to ignore
+data/
+models/
+logs/
+*.pyc
+__pycache__/
